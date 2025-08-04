@@ -1,6 +1,4 @@
- modern Android application built with Jetpack Compose that helps users discover movies from The Movie Database (TMDB) API.
-
-![Splash Screen](screenshots/splash.png) | ![Home Screen](screenshots/home.png) | ![Details Screen](screenshots/details.png)
+Modern Android application built with Jetpack Compose that helps users discover movies from The Movie Database (TMDB) API.
 
 ## ✨ Features
 
